@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo.
+Este archivo tiene varias líneas.
+Cada línea tiene varias palabras.
